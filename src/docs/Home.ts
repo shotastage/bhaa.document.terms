@@ -1,5 +1,5 @@
-export const HomeDocument = `
-# Bhaa Terms and Priv Page
+export const HomeDocument =　`
 
-このページはBhaaの利用規約及びプライバシーポリシーを記述したページです。
-`;
+# Bhaa Terms and Privacy Policy Page
+
+このページはBhaaの利用規約及びプライバシーポリシーを記述したページです。`;
