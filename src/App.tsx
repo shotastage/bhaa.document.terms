@@ -6,7 +6,7 @@ const App = (): JSX.Element => {
 
   return (
     <>
-      <ReactMarkdown source={HomeDocument} />
+      <ReactMarkdown>{HomeDocument}</ReactMarkdown>
     </>
   );
 }
