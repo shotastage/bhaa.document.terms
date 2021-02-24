@@ -8,7 +8,7 @@ ReactDOM.render(
   <React.StrictMode>
     <Suspense fallback={<></>}>
       <RouterComponent />
-    </Suspense>,
+    </Suspense>
   </React.StrictMode>,
   document.getElementById('root')
 );
