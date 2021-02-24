@@ -1,8 +1,6 @@
 import React from 'react';
-import ReactMarkdown from 'react-markdown';
-import { HomeDocument } from'./docs/Home';
 
-const App = (): JSX.Element => {
+const App: React.FC = (): JSX.Element => {
 
   return (
     <>
