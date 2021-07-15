@@ -1,6 +1,5 @@
 # Bhaa Terms Web Site for InApp
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0e052c43-252a-416c-bebd-3c25ab756fe7/deploy-status)](https://app.netlify.com/sites/quirky-fermi-7a516e/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0e052c43-252a-416c-bebd-3c25ab756fe7/deploy-status)](https://app.netlify.com/sites/bhaa-terms-doc-vx2124/deploys)
 
-
-Site is **[here](https://quirky-fermi-7a516e.netlify.app/)**.
+Site is **[here](https://bhaa-terms-doc-vx2124.netlify.app)**.
