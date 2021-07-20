@@ -1,4 +1,3 @@
-import React from 'react';
 import ReactMarkdown from 'react-markdown';
 import { PrivDocument } from'./docs/PrivPol';
 
