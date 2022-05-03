@@ -5,7 +5,7 @@ const TermsPage = (): JSX.Element => {
 
   return (
     <>
-      <ReactMarkdown source={TermsDocument} />
+      <ReactMarkdown children={TermsDocument} />
     </>
   );
 }

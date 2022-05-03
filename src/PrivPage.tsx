@@ -5,7 +5,7 @@ const PrivPage = (): JSX.Element => {
 
   return (
     <>
-      <ReactMarkdown source={PrivDocument} />
+      <ReactMarkdown children={PrivDocument} />
     </>
   );
 }
