@@ -12,7 +12,6 @@ import TermsPage from "./TermsPage";
 import PrivPage from "./PrivPage";
 
 
-
 class RouterComponent extends React.Component<RouteProps, {}> {
   render() {
     return (
