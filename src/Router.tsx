@@ -20,6 +20,8 @@ class RouterComponent extends React.Component<RouteProps, {}> {
           <Route path="/" element={<App/>} />
           <Route path="/terms" element={<TermsPage/>} />
           <Route path="/priv" element={<PrivPage/>} />
+          <Route path="/prod/bhaa/terms" element={<TermsPage/>} />
+          <Route path="/prod/bhaa/priv" element={<PrivPage/>} />
         </Routes>
       </BrowserRouter>
     );
